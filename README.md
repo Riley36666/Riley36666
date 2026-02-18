@@ -8,7 +8,6 @@ A-Level student (Maths, Further Maths, Physics) interested in software engineeri
 
 **MyOwnPassManager**  
 CLI-based password manager built in Python featuring:
-- Fernet (AES) encryption
 - Master authentication system
 - Optional environment-based verification
 - MongoDB-backed storage
@@ -21,17 +20,15 @@ Focused on learning secure architecture and modular design.
 ## 🛠 Tech
 
 Python • Java • JavaScript  • C++
-MongoDB  • pytest • cryptography • Git
 
 ---
 
 ## 🎯 Interests
 
-Software engineering  
-Cybersecurity fundamentals  
+Software engineering   
 Systems programming  
-Clean architecture  
 
 ---
 
-📫 Riley6c@icloud.com
+📫 Riley.36666@gmail.com
+
