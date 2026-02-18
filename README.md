@@ -1,66 +1,37 @@
-# Hi, I'm Riley 👋
+# Riley 👋
 
-A 17-year-old A-Level student passionate about software engineering, security, and system design.
-
-Currently studying Maths, Further Maths and Physics, with a strong interest in building secure and well-structured software systems.
+A-Level student (Maths, Further Maths, Physics) interested in software engineering, security, and system design.
 
 ---
 
-## 🚀 What I’m Working On
+## 🔐 Current Project
 
-🔐 **MyOwnPassManager**  
-A modular, CLI-based password manager built in Python with:
-- Symmetric encryption (Fernet / AES)
+**MyOwnPassManager**  
+CLI-based password manager built in Python featuring:
+- Fernet (AES) encryption
 - Master authentication system
 - Optional environment-based verification
 - MongoDB-backed storage
 - Unit testing with pytest
 
-Focused on learning about:
-- Cryptography fundamentals
-- Secure system design
-- Modular architecture
-- Backend integration
+Focused on learning secure architecture and modular design.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech
 
-**Languages**
-- Python
-- C
-- JavaScript
-
-**Tools & Concepts**
-- Encryption (Fernet)
-- MongoDB
-- Environment configuration
-- Unit testing (pytest)
-- Modular project structure
-- CLI application design
-- Git & GitHub workflow
+Python • Java • JavaScript  • C++
+MongoDB  • pytest • cryptography • Git
 
 ---
 
-## 📚 Current Interests
+## 🎯 Interests
 
-- Software Engineering
-- Cybersecurity fundamentals
-- Systems programming
-- Clean architecture
-- Performance optimisation
-
----
-
-## 🎯 Goals
-
-- Study Engineering / Software-related degree
-- Build production-level secure applications
-- Deepen understanding of low-level systems
-- Contribute to meaningful open-source projects
+Software engineering  
+Cybersecurity fundamentals  
+Systems programming  
+Clean architecture  
 
 ---
 
-## 📫 Contact
-
-- Email: Riley.36666@gmail.com
+📫 Riley6c@icloud.com
