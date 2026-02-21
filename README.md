@@ -1,6 +1,6 @@
 # Riley 👋
 
-A-Level student (Maths, Further Maths, Physics) interested in software engineering, security, and system design.
+A-Level student (Maths, Further Maths, Physics) interested in software engineering, and system design.
 
 ---
 
@@ -13,13 +13,12 @@ CLI-based password manager built in Python featuring:
 - MongoDB-backed storage
 - Unit testing with pytest
 
-Focused on learning secure architecture and modular design.
 
 ---
 
 ## 🛠 Tech
 
-Python • Java • JavaScript  • C++
+Python • Java • JavaScript 
 
 ---
 
