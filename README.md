@@ -25,6 +25,7 @@ Python • Java • JavaScript
 ## 🎯 Interests
 
 Software engineering   
+Conputer science
 Systems programming  
 
 ---
