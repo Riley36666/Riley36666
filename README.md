@@ -1,4 +1,4 @@
-# Riley 👋
+# Riley 
 
 A-Level student (Maths, Further Maths, Physics) interested in software engineering, and system design.
 
